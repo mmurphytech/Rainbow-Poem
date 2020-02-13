@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+adding Indigo
 Unicorn
 Yellow
 Red
